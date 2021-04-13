@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678557883184",
+    "project_id": "fuel-delivery-on-demand",
+    "storage_bucket": "fuel-delivery-on-demand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678557883184:android:e24804e220751a619106f5",
+        "android_client_info": {
+          "package_name": "com.fueldelivery.ondemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678557883184-4bod06i0dvorkne303pmtqrqs8im6dgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIJxeIXOKW_QFWbC_0Vm2ElR7JmulvtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678557883184-4bod06i0dvorkne303pmtqrqs8im6dgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
